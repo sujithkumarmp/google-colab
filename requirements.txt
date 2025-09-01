@@ -1,0 +1,11 @@
+# Project dependencies aggregated from notebook imports.
+# Generated via inspection of current Jupyter notebooks (search results limited to first 10 matches).
+# Add or pin versions as needed, e.g. torch==2.2.2. Avoid strict pinning if relying on Google Colab defaults.
+
+torch
+tensorflow
+numpy
+sympy
+matplotlib
+tiktoken
+transformers
